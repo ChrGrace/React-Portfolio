@@ -49,10 +49,13 @@ const Services = () => {
           >
             <h2 className='h2 text-accent mb-6'>What I Do.</h2>
             <h3 className='h3 max-w-[455px] mb-16'>
-              I'm a Developer beginning my journey into the world of web development, where the magic of realising clients dreams is my expectation.
+              {/* I'm a Developer beginning my journey into the world of web development, where the magic of realising clients dreams is my expectation.  */}
             </h3>
+            {/*
             <button className='btn btn-sm'>See my work</button>
+             */}
           </motion.div>
+
           {/* services */}
           <motion.div
             variants={fadeIn('left', 0.5)}

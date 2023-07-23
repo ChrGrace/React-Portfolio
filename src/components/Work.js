@@ -32,9 +32,12 @@ const Work = () => {
                 The movie buffs - a front end website for cinephiles who wish to view what is now showing, coming soon and to purchase tickets.
 
                 Choice Cuts - a full stack digital shopfront for a fictional butchery.
-                Coming soon - a full stack website utilising the most modern technologies.
+                Coming soon - an online classroom.
               </p>
-              <button className='btn btn-sm'>View all projects </button>
+
+              <a href="https://github.com/ChrGrace">
+                <button className='btn btn-sm'>View all projects </button>
+              </a>
             </div>
             {/* image */}
             <div className='group relative overflow-hidden border-2 border-white/50 rounded-xl'>

@@ -43,7 +43,7 @@ const Banner = () => {
                   2000,
                   'Dreamer',
                   2000,
-                  '',
+                  'Designer',
                   2000,
                 ]}
                 speed={50}
@@ -88,7 +88,7 @@ const Banner = () => {
               <a href='https://github.com/ChrGrace'>
                 <FaGithub />
               </a>
-              <a href='#'>
+              <a href='https://www.linkedin.com/in/christopher-grace88/'>
                 <FaLinkedinIn />
               </a>
             </motion.div>

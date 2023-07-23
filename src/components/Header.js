@@ -12,11 +12,11 @@ const Header = () => {
             <img src={Logo} alt='' />
           </a>
           {/* button */}
-          <button className='btn btn-sm'>Work with me</button>
+          <a href='#contact' className='btn btn-lg'>Work with me</a>
         </div>
       </div>
     </header>
   );
 };
-
+<a href='#contact' className='btn btn-lg'>Contact me</a>
 export default Header;

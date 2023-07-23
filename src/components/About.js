@@ -34,12 +34,15 @@ const About = () => {
           >
             <h2 className='h2 text-accent'>About me.</h2>
             <h3 className='h3 mb-4'>
-              I'm a Developer blah blah blah
+              I'm a web developer
             </h3>
             <p className='mb-6'>
-              About me text goes here.
+              With my studies reaching their conclusion, I am excited to finally put my skills to the test to design, maintain, upgrade or create any project.
+
+              When I am not battling errors and wrangling code, I very much enjoy spending time with my canines, viewing E-sports, whittling away the hours playing games, travelling the world and reminiscing about the good old days when I was young, cool and learning to pilot helicopters.
             </p>
             {/* stats */}
+            {/*
             <div className='flex gap-x-6 lg:gap-x-10 mb-12'>
               <div>
                 <div className='text-[40px] font-tertiary text-gradient mb-2'>
@@ -74,12 +77,13 @@ const About = () => {
               <button className='btn btn-lg'>Contact me</button>
               <a href='#' className='text-gradient btn-link'>
                 My Portfolio
-              </a>
-            </div>
+              </a> 
+        </div>
+        */}
           </motion.div>
         </div>
-      </div>
-    </section>
+      </div >
+    </section >
   );
 };
 

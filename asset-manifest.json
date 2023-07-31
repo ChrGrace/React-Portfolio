@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9a1fdc75.css",
+    "main.js": "/static/js/main.f9c12965.js",
+    "static/media/webfactory-ltd-NoOrDKxUfzo-unsplash.jpg": "/static/media/webfactory-ltd-NoOrDKxUfzo-unsplash.cdadb2dacc79593aa508.jpg",
+    "static/media/site-bg.jpg": "/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/CClogoWhite.png": "/static/media/CClogoWhite.46fde0de46ec8e26bafc.png",
+    "static/media/RioOutside2.jpg": "/static/media/RioOutside2.37cd57a65cdf254c1371.jpg",
+    "static/media/Helo.jpg": "/static/media/Helo.795633213983f02205e8.jpg",
+    "static/media/ChrGraceLogoSnip.png": "/static/media/ChrGraceLogoSnip.4dc617da667d78ee219e.png",
+    "static/media/My face 2.jpg": "/static/media/My face 2.a1c4befa3c8a1ff81502.jpg",
+    "static/media/Movie buffs logo.png": "/static/media/Movie buffs logo.87cb13c37d24fc3deeaf.png",
+    "index.html": "/index.html",
+    "main.9a1fdc75.css.map": "/static/css/main.9a1fdc75.css.map",
+    "main.f9c12965.js.map": "/static/js/main.f9c12965.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a1fdc75.css",
+    "static/js/main.f9c12965.js"
+  ]
+}
